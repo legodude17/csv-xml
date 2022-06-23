@@ -1,0 +1,12 @@
+{
+  "name": "csv-xml",
+  "description": "A tool to convert between csv and xml based on config",
+  "version": "0.0.0",
+  "homepage": "https://github.com/legodude17/csv-xml",
+  "author": "JDB (https://github.com/legodude17)",
+  "repository": "legodude17/csv-xml",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
