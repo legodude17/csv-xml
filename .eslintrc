@@ -26,6 +26,7 @@
     ],
     "no-param-reassign": "off",
     "no-plusplus": "off",
-    "no-underscore-dangle": "off"
+    "no-underscore-dangle": "off",
+    "no-inner-declarations": "off"
   }
 }
